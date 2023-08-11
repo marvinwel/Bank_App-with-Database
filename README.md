@@ -1,6 +1,7 @@
-# School Project: Flutter Bank App
+# School Project: Bank App with Oracle Database
 
 ![App Demo]
+
 
 ## About
 
@@ -32,12 +33,18 @@ The bank app developed for this project offers a range of features to empower us
 
 - **Overdraft Protection**: This bank app includes a unique feature allowing users to overdraft up to a maximum of $50. This can be a helpful buffer for minor financial emergencies.
 
+- **Branch Management**: As the bank expands, new branches can be opened directly from the app. Each branch can hire employees and offer services to local customers.
+
+## Listing Branches by State
+
+The app provides a convenient way to list all branches by state. Users can easily navigate through the branches in their desired location, facilitating efficient customer service and engagement.
+
 ## Getting Started
 
 Follow these steps to get the project up and running on your machine:
 
 1. Clone this repository: `git clone https://github.com/yourusername/flutter-bank-app.git`
-2. Install Flutter: Follow the official [installation guide](https://flutter.dev/docs/get-started/install)
+2. Install Flutter: Follow the official [installation guide](https://github.com/marvinwel/Bank_App-with-Database.git)
 3. Open the project in your favorite code editor.
 4. Run the app: `flutter run`
 
