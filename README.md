@@ -44,7 +44,7 @@ The app provides a convenient way to list all branches by state. Users can easil
 Follow these steps to get the project up and running on your machine:
 
 1. Clone this repository: `git clone https://github.com/yourusername/flutter-bank-app.git`
-2. Install Flutter: Follow the official [installation guide](https://github.com/marvinwel/Bank_App-with-Database.git)
+2. Install Flutter: Follow the official [installation guide](https://flutter.dev/docs/get-started/install)
 3. Open the project in your favorite code editor.
 4. Run the app: `flutter run`
 
